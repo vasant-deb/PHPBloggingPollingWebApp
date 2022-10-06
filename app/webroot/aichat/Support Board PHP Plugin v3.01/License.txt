@@ -1,0 +1,4 @@
+All the parts of this plugin, including the CSS code, images, and design are
+licensed according to the license purchased from Envato.
+
+Read more about licensing here: http://themeforest.net/licenses
